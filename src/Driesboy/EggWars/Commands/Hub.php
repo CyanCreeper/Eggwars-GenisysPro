@@ -7,7 +7,7 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\Server;
 
-class HubCommand extends Command{
+class Hub extends Command{
 
   public function __construct(){
     parent::__construct("hub", "Hub Command");
