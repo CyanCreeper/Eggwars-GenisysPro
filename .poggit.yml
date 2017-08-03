@@ -5,9 +5,6 @@ branches:
 - API3
 - API3-Fix-#14
 projects:
-  Eggwars:
+  Eggwars-GenisysPro:
     path: ""
-    libs:
-      - src: Falkirks/spoondetector/spoondetector
-        version: ^0    
 ...
