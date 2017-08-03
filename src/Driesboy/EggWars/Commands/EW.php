@@ -18,7 +18,7 @@ use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\utils\Config;
 
-class EggWarsCommand extends Command{
+class EW extends Command{
 
   public function __construct(){
     parent::__construct("ew", "EggWars by Driesboy");
